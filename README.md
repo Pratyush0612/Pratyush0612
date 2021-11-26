@@ -1,3 +1,4 @@
+https://thumbs.dreamstime.com/b/web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-122741764.jpg
 <h1 align="center">Hi 👋, I'm Pratyush Tyagi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
