@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Pratyush Tyagi</h1>
 <h3 align="center">An Open Source Enthusiast</h3>
 
+<img align ="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fweb%2Bdevelopment&psig=AOvVaw1e4gc4EFAcGp_D62nPfEQl&ust=1638254086809000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCWqqX6vPQCFQAAAAAdAAAAABAD">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush0612" /></p> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Repositories&color=0e75b6&style=flat" alt="pratyush0612" /> </p>
 
