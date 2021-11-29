@@ -2,6 +2,7 @@
 <h3 align="center">An Open Source Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush0612" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Repositories%30views&color=0e75b6&style=flat" alt="pratyush0612" /> </p
 
 - 🌱 I’m currently learning **React**
 
