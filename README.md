@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush0612" /></p> 
 
+<img src="dev.jpg" alt="web develoment" height="100">
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML,CSS**
