@@ -23,14 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush0612&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="pratyush0612" /></p>
 
-<!-- 
-<br/>
-    <a href="https://github.com/Pratyush0612/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pratyush0612&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <a href="https://github.com/Pratyush0612/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush0612&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/> -->
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush0612&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pratyush0612" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyush0612&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="pratyush0612" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyush0612&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="pratyush0612" /></p>
