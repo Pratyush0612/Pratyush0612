@@ -24,8 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyush0612&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="pratyush0612" /></p>
 
-  <h3>Github Stats</h3>  📊
-  <br/>
+  <h3 align="left">Github Stats:</h3> 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush0612&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="pratyush0612" /></p>
 
 
