@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratyush Tyagi</h1>
+<h1 align="center">Hi 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pratyush Tyagi</h1>
 <h3 align="center"><i>An Open Source Enthusiast</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush0612" /> </p>
