@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush0612&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="pratyush0612" /></p>
 
-  <h3 align="left">Github Stats:</h3> 
+  <h3 align="center">Github Stats:chart_with_upwards_trend:</h3> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush0612&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="pratyush0612" /></p>
 
