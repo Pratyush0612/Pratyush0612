@@ -27,6 +27,7 @@
   <h3 align="left">Github Stats:chart_with_upwards_trend:...</h3> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush0612&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="pratyush0612" /></p>
+ <a href="https://github.com/pratuysh0612/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratuysh0612&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyush0612&show_icons=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="pratyush0612" /></p>
