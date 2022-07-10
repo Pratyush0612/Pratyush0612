@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Pratyush Tyagi</h1>
 <!-- https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif -->
+<img src= "Github.gif" width = "100%">
 <h3 align="center"><i>An Open Source Enthusiast</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush0612" /> </p>
