@@ -1,4 +1,4 @@
-<img src= "Gitimg.gif" width = "60%">
+<img src= "Gitimg.gif" width = "50%">
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Pratyush Tyagi</h1> -->
 <h1 align ="center">Hey I'm <i>Pratyush Tyagi</i></h1>
 
