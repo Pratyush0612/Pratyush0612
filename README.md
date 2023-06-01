@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning projects**
 
-<!-- - 🌱 I’m currently learning **** -->
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
