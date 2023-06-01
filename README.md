@@ -1,12 +1,12 @@
-<img src= "Gitimg.gif" width = "50%">
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Pratyush Tyagi</h1> -->
 <h1 align ="center">Hey I'm <i>Pratyush Tyagi</i></h1>
+<img align="right" width = "400" src= "Gitimg.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush0612" /> </p>
 
-- 🔭 I’m currently working on **Web development projects**
+- 🔭 I’m currently working on **Machine Learning projects**
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **** -->
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
