@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **C++,ML,Web Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
