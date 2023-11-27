@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Pratyush Tyagi</h1> -->
 ![logo](https://github.com/Pratyush0612/Pratyush0612/blob/main/Github%20banner%202.png)
-<h1 align ="center">Hey<img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width ="45"/> I'm <i>Pratyush Tyagi</i></h1>
+<h1 align ="center">Hey<img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width ="45"/> I'm Pratyush Tyagi</h1>
 <img align="right" width = "400" src= "Gitimg.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Profile%20views&color=0e75b6&style=flat" alt="pratyush0612" /> </p>
