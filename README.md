@@ -26,7 +26,7 @@
 <h3 align="left">:chart_with_upwards_trend:Github Stats...</h3> 
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0612&hide_progress=true&theme=neon)
- 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyush0612&theme=neon" alt="pratyush0612" /></p>
 
 ![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyush0612&show_icons=true&theme=neon)
