@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Total+Profile+views&color=red&style=for-the-badge" alt="pratyush0612" /> </p>
 
 <!--![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)-->
-- 🔭 I’m currently working on **Machine Learning projects**
+ 🔭  I’m currently working on **Machine Learning projects**
 
-- 🌱 I’m currently learning **C++**
+ 🌱  I’m currently learning **C++**
 
-- 💬 Ask me about **C++,ML,Web Dev**
+ 💬  Ask me about **C++,ML,Web Dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
