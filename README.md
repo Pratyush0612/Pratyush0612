@@ -3,6 +3,7 @@
 <h1 align ="center">Hey<img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width ="45"/> I'm Pratyush Tyagi</h1>
 <img align="right" width = "400" src= "Gitimg.gif" >
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Total+Profile+views&color=red&style=for-the-badge" alt="pratyush0612" /> </p>
 
 <!--![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)-->
