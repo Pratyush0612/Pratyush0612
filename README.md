@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">, I'm Pratyush Tyagi</h1> -->
 ![logo](https://github.com/Pratyush0612/Pratyush0612/blob/main/Github%20banner%20new.jpg)
 <h1 align ="center">Hey<img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width ="45"/> I'm Pratyush Tyagi</h1>
-<img align="right" width = "400" src= "Gitimg.gif" >
+<img align="right" width = "390" src= "Gitimg.gif" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyush0612&label=Total+Profile+views&color=red&style=for-the-badge" alt="pratyush0612" /> </p>
